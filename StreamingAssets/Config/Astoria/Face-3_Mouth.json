@@ -1,25 +1,16 @@
 {
   "paths": [
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_ahegao.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_ahegao_bg.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_angry.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_angry_bg.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_base.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_base_bg.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_closed.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_happyCl.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_narrow.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_narrow_bg.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_wide.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_wide_bg.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_wink.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/eye_wink_bg.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/pupil_ahegao.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/pupil_angry.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/pupil_down.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/pupil_L.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/pupil_mid.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/pupil_R.png",
-    "/Sprites/Characters/Astoria/Face/3_Mouth/pupil_wide.png"
+    "/Sprites/Characters/Astoria/Face/3_Mouth/clench.png",
+    "/Sprites/Characters/Astoria/Face/3_Mouth/disgust.png",
+    "/Sprites/Characters/Astoria/Face/3_Mouth/grin.png",
+    "/Sprites/Characters/Astoria/Face/3_Mouth/happy.png",
+    "/Sprites/Characters/Astoria/Face/3_Mouth/open.png",
+    "/Sprites/Characters/Astoria/Face/3_Mouth/open.png",
+    "/Sprites/Characters/Astoria/Face/3_Mouth/scream.png",
+    "/Sprites/Characters/Astoria/Face/3_Mouth/smile.png",
+    "/Sprites/Characters/Astoria/Face/3_Mouth/tongue_disgust.png",
+    "/Sprites/Characters/Astoria/Face/3_Mouth/tongue_silly.png",
+    "/Sprites/Characters/Astoria/Face/3_Mouth/upset.png",
+    "/Sprites/Characters/Astoria/Face/3_Mouth/worried.png"
   ]
 }
