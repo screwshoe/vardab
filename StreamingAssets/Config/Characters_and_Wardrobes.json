@@ -1,0 +1,275 @@
+{
+  "Characters": [
+    {
+      "Name": "Astoria",
+      "Types": [
+        {
+          "Type": "Accessories",
+          "Wardrobe": [
+            {
+              "Name": "3_hats"
+            }
+          ]
+        },
+        {
+          "Type": "Body",
+          "Wardrobe": [
+            {
+              "Name": "1_Hair"
+            },
+            {
+              "Name": "2_Head"
+            },
+            {
+              "Name": "3_Base"
+            },
+            {
+              "Name": "4_Arms"
+            }
+          ]
+        },
+        {
+          "Type": "Clothes",
+          "Wardrobe": [
+            {
+              "Name": "0_Custom"
+            },
+            {
+              "Name": "1_Tops"
+            },
+            {
+              "Name": "2_Bottoms"
+            },
+            {
+              "Name": "3_Onepieces"
+            },
+            {
+              "Name": "4_Robe"
+            },
+            {
+              "Name": "5_Underwear"
+            },
+            {
+              "Name": "6_Stockings"
+            }
+          ]
+        },
+        {
+          "Type": "Face",
+          "Wardrobe": [
+            {
+              "Name": "1_Brow"
+            },
+            {
+              "Name": "2_Eyes"
+            },
+            {
+              "Name": "3_Mouth"
+            },
+            {
+              "Name": "4_Extra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Cho",
+      "Types": [
+        {
+          "Type": "Body",
+          "Wardrobe": [
+            {
+              "Name": "1_Hair"
+            },
+            {
+              "Name": "2_Body"
+            },
+            {
+              "Name": "3_Base"
+            }
+          ]
+        },
+        {
+          "Type": "Clothes",
+          "Wardrobe": [
+            {
+              "Name": "0_Robe"
+            },
+            {
+              "Name": "1_Uniform"
+            },
+            {
+              "Name": "2_Outfits"
+            },
+            {
+              "Name": "3_Tops"
+            },
+            {
+              "Name": "4_Bottoms"
+            },
+            {
+              "Name": "5_Gloves"
+            },
+            {
+              "Name": "6_Neckwear"
+            },
+            {
+              "Name": "7_Stockings"
+            },
+            {
+              "Name": "8_Underwear"
+            }
+          ]
+        },
+        {
+          "Type": "Face",
+          "Wardrobe": [
+            {
+              "Name": "1 Eyes"
+            },
+            {
+              "Name": "1_Eyes"
+            },
+            {
+              "Name": "2 Brow"
+            },
+            {
+              "Name": "2_Brow"
+            },
+            {
+              "Name": "3 Mouth"
+            },
+            {
+              "Name": "3_Mouth"
+            },
+            {
+              "Name": "4 Tears"
+            },
+            {
+              "Name": "4_Tears"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hermione",
+      "Types": [
+        {
+          "Type": "Accessories",
+          "Wardrobe": [
+            {
+              "Name": "1_Body_accs"
+            },
+            {
+              "Name": "2_Collars"
+            },
+            {
+              "Name": "3_Ears"
+            },
+            {
+              "Name": "4_Glasses"
+            },
+            {
+              "Name": "5_Hats"
+            },
+            {
+              "Name": "6_Makeup"
+            },
+            {
+              "Name": "7_Piercings"
+            },
+            {
+              "Name": "8_Plugs"
+            }
+          ]
+        },
+        {
+          "Type": "Body",
+          "Wardrobe": [
+            {
+              "Name": "1_Head"
+            },
+            {
+              "Name": "2_Base"
+            },
+            {
+              "Name": "3_Arms"
+            },
+            {
+              "Name": "4_Breasts"
+            },
+            {
+              "Name": "5_legs"
+            },
+            {
+              "Name": "6_Kneel"
+            },
+            {
+              "Name": "7_Ass"
+            },
+            {
+              "Name": "8_Pubic_Hair"
+            },
+            {
+              "Name": "9_Tattoos"
+            }
+          ]
+        },
+        {
+          "Type": "Clothes",
+          "Wardrobe": [
+            {
+              "Name": "1_Tops"
+            },
+            {
+              "Name": "2_Bottoms"
+            },
+            {
+              "Name": "3_OnePieces"
+            },
+            {
+              "Name": "4_Custom"
+            },
+            {
+              "Name": "5_Stockings"
+            },
+            {
+              "Name": "6_Underwear"
+            },
+            {
+              "Name": "7_Swimsuit"
+            },
+            {
+              "Name": "8_uniform"
+            },
+            {
+              "Name": "9_Gloves"
+            }
+          ]
+        },
+        {
+          "Type": "Face",
+          "Wardrobe": [
+            {
+              "Name": "1_Eyes"
+            },
+            {
+              "Name": "2_Cheeks"
+            },
+            {
+              "Name": "3_Mouth"
+            },
+            {
+              "Name": "4_Tears"
+            },
+            {
+              "Name": "5_Cum"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
